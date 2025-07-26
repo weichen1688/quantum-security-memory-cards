@@ -13,3 +13,5 @@
 -比特幣社區必須達成共識並升級為後量子標準，以減輕未來的風險 (ЛАВРИК, 2024)。
 
 儘管如 ECDSA 這樣的古典算法目前普遍，但量子計算的日益增加威脅需要轉向量子後加密解決方案。
+
+https://felo.ai/en/page/preview/g3vDSpQcJyXdovroWthqd9?business_type=AGENT_THREAD
